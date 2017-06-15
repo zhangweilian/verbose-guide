@@ -1,0 +1,24 @@
+From ec59cd3b0b3511a53d9a21452284fafe1db053c5 Mon Sep 17 00:00:00 2001
+From: william <zhangweilian9950@outlook.com>
+Date: Wed, 14 Jun 2017 00:05:38 -0700
+Subject: [PATCH] new file
+
+demo demo1 modified demo1
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..3e0f233
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,2 @@
++a.out
++
+diff --git a/demo.c b/demo.c
+new file mode 100644
+index 0000000..e69de29
+diff --git a/demo1.c b/demo1.c
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.7.4
+
