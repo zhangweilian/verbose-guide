@@ -6,15 +6,16 @@ _you **can** combine them__
 []finish my changes
 
 ```c
-# include<stdio.h>
-  int main(void){
+#include <stdio.h>
+int main(void){
   for(int i=0;i<10;i++)
   printf("%d",i);
-  }
-  ```c
-  >hello.c
-  [github](http://www.github.com)
-  [baidu](http://www.baidu.com)
-  if you want to do something,you can read this book:
+}
+```
+
+>hello.c
+[github](http://www.github.com)
+[baidu](http://www.baidu.com)
+if you want to do something,you can read this book:
   
-  ![Image of Yaktoca]((https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktoca]((https://octodex.github.com/images/yaktocat.png)
